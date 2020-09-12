@@ -3,7 +3,6 @@
 #
 # Pull base image.
 FROM ubuntu:18.04
-MAINTAINER Wendell Medina <wendellmedina@gmail.com>
 
 # Install.packages
 RUN \
